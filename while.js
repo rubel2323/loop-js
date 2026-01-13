@@ -6,5 +6,6 @@ let num = 0;
 // }
 while (num < 11) {
   console.log("Number is greater than", num);
-  num++;
+  // num++;
+  num = num + 1;
 }
