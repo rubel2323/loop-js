@@ -1,5 +1,5 @@
-const fruits = ["apple", "banana", "cherry"];
-for (const fruit of fruits) {
-  console.log(fruit);
-  console.log("I love " + fruit);
+for (let num = 1; num <= 60; num++) {
+  console.log(
+    num + " I will invest at least 6 hrs every single day for next 60 days!\n\n"
+  );
 }
