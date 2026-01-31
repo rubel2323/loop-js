@@ -1,7 +1,7 @@
-let num = 0;
+let num = 61;
 while (num <= 100) {
   if (num % 2 === 0) {
-    console.log(num + " is even number");
+    console.log(num + " is even number \n\n\t");
   }
   num++;
 }

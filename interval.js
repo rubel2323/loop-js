@@ -10,4 +10,4 @@ const timer = setInterval(() => {
   if (count < 65) {
     clearInterval(timer);
   }
-}, 10);
+}, 100);
